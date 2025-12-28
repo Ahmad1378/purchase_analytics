@@ -2,7 +2,7 @@
 
 ## High-level architecture:
 
-## ![][image1]
+## ![diagram](diagram.png)
 
 ## **Overview**
 
