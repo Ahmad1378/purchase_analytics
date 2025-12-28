@@ -119,7 +119,7 @@ No event is ever dropped.
 
 ### **Data Flow**
 
-`![diagram][diagram.png]`
+## ![diagram](diagram.png)
 
 ---
 
