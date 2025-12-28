@@ -370,7 +370,7 @@ The backfill process follows these principles:
        `.unionByName(medical)`  
        `.unionByName(fire)`  
        `.join(financial, "order_id")`  
----
+
 
 ### **4\. Enrich Purchase Events**
 
@@ -386,7 +386,7 @@ The backfill process follows these principles:
       `"version",`  
       `unix_timestamp(col("event_time"))`  
     `)`  
----
+
 
 ### **5\. Write to ClickHouse (Idempotent)**
 
