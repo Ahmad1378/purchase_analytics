@@ -177,7 +177,6 @@ ClickHouse is optimized for batch inserts.
     `sum(rows) AS rows_inserted`  
 `FROM system.parts`  
 `GROUP BY table;`  
----
 
 ### **Alerts**
 
